@@ -45,7 +45,7 @@ NeoBundle 'bling/vim-airline'
 " plugin for resolving three-way merge conflicts
 NeoBundle 'sjl/splice.vim'
 " plugin for visually displaying indent levels
-NeoBundle 'Indent-Guides'
+"NeoBundle 'Indent-Guides'
 " end certain structures automatically, e.g. begin/end etc.
 NeoBundle 'tpope/vim-endwise'
 " automatic closing of quotes, parenthesis, brackets, etc.
@@ -70,27 +70,6 @@ NeoBundle 'airblade/vim-gitgutter'
 NeoBundle 'mattn/emmet-vim'
 " editorconfig.org support
 NeoBundle 'editorconfig/editorconfig-vim'
-
-" Ruby/Rails
-
-" rails support
-NeoBundle 'tpope/vim-rails'
-" bundler integration (e.g. :Bopen)
-NeoBundle 'tpope/vim-bundler'
-" rake integration
-NeoBundle 'tpope/vim-rake'
-" A custom text object for selecting ruby blocks (ar/ir)
-NeoBundle 'nelstrom/vim-textobj-rubyblock'
-" ruby refactoring
-NeoBundle 'ecomba/vim-ruby-refactoring'
-" apidock.com docs integration
-NeoBundle 'apidock.vim'
-" toggle ruby blocks style
-NeoBundle 'vim-scripts/blockle.vim'
-" lightweight Rspec runner for Vim
-NeoBundle 'josemarluedke/vim-rspec'
-" i18n extraction plugin
-NeoBundle 'stefanoverna/vim-i18n'
 
 " color themes
 NeoBundle 'altercation/vim-colors-solarized'
