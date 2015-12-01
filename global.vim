@@ -93,5 +93,9 @@ set nofoldenable        "dont fold by default "
 " extended '%' mapping for if/then/else/end etc
 runtime macros/matchit.vim
 
+" colors (airline in plugins-override.vim)
+colorscheme Tomorrow-Night
+
+
 let mapleader = ","
 let maplocalleader = "\\"
